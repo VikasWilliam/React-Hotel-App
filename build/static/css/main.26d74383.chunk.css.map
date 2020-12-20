@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/component/Header.css"],"names":[],"mappings":"AAAA,OAEI,uBAEJ,CACA,MAEI,cAAe,CACf,iBAAkB,CAClB,YACJ","file":"main.26d74383.chunk.css","sourcesContent":["header{\r\n\r\n    background-color: tomato;\r\n\r\n}\r\n.logo{\r\n\r\n    font-size: 50px;\r\n    text-align: center;\r\n    color: '#fff';\r\n}"]}
